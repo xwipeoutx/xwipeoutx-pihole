@@ -1,0 +1,8 @@
+# Title: NoDumbDevices
+# Description: Stopping TVs and soundbars and things from talking to things they ought not
+
+# I caught our soundbar chatting to these
+www.microsoft.com
+www.yahoo.com
+avs-alexa-na.amazon.com
+www.amazon.com
