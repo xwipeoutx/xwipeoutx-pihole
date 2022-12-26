@@ -6,3 +6,4 @@ www.microsoft.com
 www.yahoo.com
 avs-alexa-na.amazon.com
 www.amazon.com
+avpro.global.yamaha.com
