@@ -2,8 +2,10 @@
 # Description: Stopping TVs and soundbars and things from talking to things they ought not
 
 # I caught our soundbar chatting to these
-www.microsoft.com
-www.yahoo.com
 avs-alexa-na.amazon.com
-www.amazon.com
-avpro.global.yamaha.com
+
+## These seem to be used for internet connectivity checks or something, doesn't work without it :(
+# www.microsoft.com
+# www.yahoo.com
+# www.amazon.com
+# avpro.global.yamaha.com
